@@ -1,0 +1,33 @@
+_repo: Mithridate_27625
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Racine, Jean
+    alias: Racine, Jean Baptiste
+    birthdate: 1639
+    deathdate: 1699
+    gutenberg_agent_id: '767'
+    url: http://www.gutenberg.org/2009/agents/767
+    wikipedia: http://en.wikipedia.org/wiki/Jean_Racine
+description: ''
+gutenberg_bookshelf:
+- FR Théâtre
+- Opera
+gutenberg_issued: '2008-12-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27625'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mithridates VI Eupator, King of Pontus, approximately 132 B.C.-63 B.C. --
+  Drama'
+- !lcc 'PQ'
+- !lcsh 'Tragedies'
+title: Mithridate
+url: http://www.gutenberg.org/ebooks/27625
